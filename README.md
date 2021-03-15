@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Working with: React + Typescript
-### Skills: JavaScript, ES6+, Typescript, basic Node.js,React, Redux, REST_API, Apollo-client, GraphQL, Bootstrap, Ant-Design            
+### Working with: React, Redux
+### Skills: JavaScript, ES6+,React, Redux, REST_API, basic [Typescript, Node.js, Apollo Client]        
 ### Interested in studying: WebSockets, MongoDB
               
