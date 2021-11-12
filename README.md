@@ -2,6 +2,6 @@
 
 ### Working with: React + Typescript
 ### Languages: JavaScript, ES6+, Typescript
-### Libraries: React, Redux, Node.js, Express.js, Redux-form, Formik, Redux-SAGA, REST_API, Apollo Client
+### Libraries: React, Redux+, Node, Express.
 ### UI libraries: Material UI, Ant-design
               
