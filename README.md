@@ -1,7 +1,4 @@
 ### Hi there 👋
 
-### Working with: React + Typescript + Material UI
-### Languages: ES6+, Typescript
-### Libraries: React, Redux+, Node, Express.
-### UI libraries: Material UI, Ant-design
-              
+### Working with: Redux + Typescript + Material UI
+### Stack: ES6+, Typescript, React, Redux+, Mobx, Express
