@@ -1,4 +1,5 @@
 ### Hi there 👋
 
 ### Working with: Redux + Typescript + Material UI
-### Stack: ES6+, Typescript, React, Redux+, Mobx, Express
+### Frontend: ES6+, Typescript, React, Redux+, Mobx, Material UI
+### Backend: Express, Nest, Mongo, PostgreSQL
