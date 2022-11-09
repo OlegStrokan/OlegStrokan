@@ -12,7 +12,9 @@
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-13aa52?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-1f1f1f?style=flat-square&logo=cypress&logoColor=white" />
   <img alt="Next" src="https://img.shields.io/badge/-Next-ea2845?style=flat-square&logo=next.js&logoColor=white" />
+  </p>
 <h4>Backend:</h4>
+<p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-Nest-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-CSharp-8400f0?style=flat-square&logo=Csharp&logoColor=white" />
