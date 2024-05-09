@@ -12,20 +12,14 @@
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Graphql" src="https://img.shields.io/badge/-Graphql-ea2845?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-13aa52?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-1f1f1f?style=flat-square&logo=cypress&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-ea2845?style=flat-square&logo=vite&logoColor=white" />
   </p>
 <h4>Backend:</h4>
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-Nest-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-CSharp-8400f0?style=flat-square&logo=Csharp&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="PosgreSQL" src="https://img.shields.io/badge/-PostgreSQL-007ACC?style=flat-square&logo=postgresql&logoColor=white" /> 
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-F05033?style=flat-square&logo=Amazon&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="RabbitMq" src="https://img.shields.io/badge/-RabbitMQ-F05032?style=flat-square&logo=rabbitmq&logoColor=white" />
-  <img alt="Apache Avro" src="https://img.shields.io/badge/-Avro-007ACC?style=flat-square&logo=Apache&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F05032?style=flat-square&logo=grafana&logoColor=white" />
 </p>
