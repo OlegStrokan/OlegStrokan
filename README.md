@@ -2,7 +2,7 @@
 
 
 
-<p>Welcome to my page! </br> I'm Oleh, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197572.png" width="13"/> <b>Ukraine</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="13"/> <b>Prague, Czech Republic</b>. (yes this is the philippine flag)</p>
+<p>Welcome to my page! </br> I'm Oleh, Backend Developer (ex fullstack)
 <h3>Things I code with</h3>
 <h4>Frontend:</h4>
 <p>
