@@ -2,7 +2,7 @@
 
 
 
-<p>Welcome to my page! </br> I'm Oleh, Backend Developer (ex fullstack)
+<p>Welcome to my page! </br> I'm Oleh, Full-stack Developer
 <h3>Things I code with</h3>
 <h4>Frontend:</h4>
 <p>
