@@ -21,4 +21,12 @@
   <img alt="PosgreSQL" src="https://img.shields.io/badge/-PostgreSQL-007ACC?style=flat-square&logo=postgresql&logoColor=white" /> 
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-F05033?style=flat-square&logo=Amazon&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F05032?style=flat-square&logo=grafana&logoColor=white" />
+<h4>Crypto:</h4>
+<p> 
+  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-7e8080?style=flat-square&logo=Solidity&logoColor=white" />
+  <img alt="Hardhat" src="https://img.shields.io/badge/-Hardhat-c78b1c?style=flat-square&logo=hardhat&logoColor=white" />
+  <img alt="OpenZeppelin" src="https://img.shields.io/badge/-OpenZeppelin-168af7?style=flat-square&logo=OpenZeppelin&logoColor=white" />
+  <img alt="Ethers" src="https://img.shields.io/badge/-Ethers-7b16f7?style=flat-square&logo=Ethers&logoColor=white" />
+  <img alt="Foundry" src="https://img.shields.io/badge/-Foundry-db991f?style=flat-square&logo=foundry&logoColor=white" />
+  <img alt="Infura" src="https://img.shields.io/badge/-Infura-f76a3b?style=flat-square&logo=Infura&logoColor=white" />
 </p>
