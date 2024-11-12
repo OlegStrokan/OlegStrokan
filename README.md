@@ -26,7 +26,5 @@
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-7e8080?style=flat-square&logo=Solidity&logoColor=white" />
   <img alt="Hardhat" src="https://img.shields.io/badge/-Hardhat-c78b1c?style=flat-square&logo=hardhat&logoColor=white" />
   <img alt="OpenZeppelin" src="https://img.shields.io/badge/-OpenZeppelin-168af7?style=flat-square&logo=OpenZeppelin&logoColor=white" />
-  <img alt="Ethers" src="https://img.shields.io/badge/-Ethers-7b16f7?style=flat-square&logo=Ethers&logoColor=white" />
   <img alt="Forge" src="https://img.shields.io/badge/-Forge-db991f?style=flat-square&logo=ForgeUp&logoColor=white" />
-  <img alt="Infura" src="https://img.shields.io/badge/-Infura-f76a3b?style=flat-square&logo=Infura&logoColor=white" />
 </p>
