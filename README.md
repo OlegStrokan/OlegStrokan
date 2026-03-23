@@ -1,1 +1,2 @@
-I don't have a cool readme file, cause I don't need to compensate
+region affinity, failover/fencing, global idempotency store, sync replication, vagina.
+Hi:)
