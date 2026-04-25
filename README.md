@@ -1,2 +1,1 @@
-region affinity, failover/fencing, global idempotency store, sync replication, vagina.
-Hi
+I'm trying to escape the 'developer' stigma
